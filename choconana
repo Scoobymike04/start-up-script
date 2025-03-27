@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="<iframe src="https://giphy.com/embed/HCZWcSCKJpf44" 
+        <iframe src="https://giphy.com/embed/HCZWcSCKJpf44" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chocolate-banana-HCZWcSCKJpf44">via GIPHY</a></p>
               width="500"
               height="270"
               style="border-radius:10px;"
