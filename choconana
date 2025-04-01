@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://storage.googleapis.com/a-dream/verve.jpg');
+      background-image: url('https://images.platforum.cloud/uploads/20170808/c19d4bf833de225f4c46264b1dac210e.jpg');
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-        <iframe src="https://giphy.com/embed/HCZWcSCKJpf44" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chocolate-banana-HCZWcSCKJpf44">via GIPHY</a></p>
+        <iframe src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlwdnhyNWxpczV6bzZ3cXljbHZ2YWhjaHhrdDZkeWU0ZHA3dDc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5uWA6VLMuihG/giphy.gif" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chocolate-banana-HCZWcSCKJpf44">via GIPHY</a></p>
               width="500"
               height="270"
               style="border-radius:10px;"
@@ -66,7 +66,7 @@ cat <<EOF > /var/www/html/index.html
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
       <h3 class="w3-large w3-center" style="margin-top:15px;">
-        <a href="https://github.com/BIGDADDY5802/start-up-script.git"
+        <a href="https://github.com/Scoobymike04/start-up-script.git"
            class="w3-button w3-transparent w3-border w3-border-white w3-round-large w3-text-white"
            style="margin-bottom:0px;"
            target="_blank">
@@ -76,7 +76,8 @@ cat <<EOF > /var/www/html/index.html
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
       <h1>My Compute Instance Information</h1>
-      <h3></h3>
+      <h2>Michael Churchill, team leader Jerome Hunter/Darian</h2>
+      <h3>I Michael, thank you Theo and Beron!</h3>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
       <p><b>Zone: </b> $zone</p>
